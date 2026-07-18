@@ -24,9 +24,9 @@
 **[Telegram-бот для аренды спецтехники](ссылка-на-репозиторий)** — сервис для размещения объявлений и аренды спецтехники
 Стек: Python, aiogram, SQLite · Приём фото и документов, модерация администратором, автопубликация одобренных объявлений
 
-**[Лендинг 1](ссылка-на-лендинг)** — верстка на HTML/CSS/JS · [демо](https://bobirechek.github.io/...)
+**[Лендинг 1](https://github.com/Bobirechek/furniture-sloy)** — верстка на HTML/CSS/JS · [демо](https://bobirechek.github.io/furniture-sloy)
 
-**[Лендинг 2](ссылка-на-лендинг)** — верстка на HTML/CSS/JS · [демо](https://bobirechek.github.io/...)
+**[Лендинг 2](https://github.com/Bobirechek/color)** — верстка на HTML/CSS/JS · [демо](https://bobirechek.github.io/color)
 
 ---
 
